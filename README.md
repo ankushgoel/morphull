@@ -1,5 +1,5 @@
 # Morphull - Astro Starter Kit
-
+https://smashing-transitions.netlify.app
 A morphing or full page transition enabled slide creation starter kit that uses [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API) to do all the work. 
 
 Until View Transitions are supported across all browsers, this API and starter kit only works in [Chrome Canary](https://www.google.com/chrome/canary/) with [chrome://flags/#view-transition-on-navigation](chrome://flags/#view-transition-on-navigation) enabled.
